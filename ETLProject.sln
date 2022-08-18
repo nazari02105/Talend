@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETLWebApp", "ETLWebApp\ETLWebApp.csproj", "{483FB721-5D6E-4F99-AEFF-5DD6FA71CE49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETLLibrary", "ETLLibrary\ETLLibrary.csproj", "{7B0996B1-83A3-4424-9421-23E99A63BC4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestETLLibrary", "TestETLLibrary\TestETLLibrary.csproj", "{9E8468DB-FD33-4A10-8BB9-5909EF83B99E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{483FB721-5D6E-4F99-AEFF-5DD6FA71CE49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483FB721-5D6E-4F99-AEFF-5DD6FA71CE49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483FB721-5D6E-4F99-AEFF-5DD6FA71CE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483FB721-5D6E-4F99-AEFF-5DD6FA71CE49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B0996B1-83A3-4424-9421-23E99A63BC4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B0996B1-83A3-4424-9421-23E99A63BC4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B0996B1-83A3-4424-9421-23E99A63BC4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B0996B1-83A3-4424-9421-23E99A63BC4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E8468DB-FD33-4A10-8BB9-5909EF83B99E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E8468DB-FD33-4A10-8BB9-5909EF83B99E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E8468DB-FD33-4A10-8BB9-5909EF83B99E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E8468DB-FD33-4A10-8BB9-5909EF83B99E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

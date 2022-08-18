@@ -1,0 +1,27 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=095e143a_002Ddae2_002D44f3_002Da04d_002D4b188090d13d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PipelineTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9E8468DB-FD33-4A10-8BB9-5909EF83B99E::net5.0::TestETLLibrary.PipelineTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=68298206_002D097d_002D4d4f_002D96e6_002Dd4bab788d0ff/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PipelineTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9E8468DB-FD33-4A10-8BB9-5909EF83B99E::net5.0::TestETLLibrary.PipelineTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c1c06b21_002D5647_002D4b7a_002D84ef_002Ddf8a95e3c0ad/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PipelineTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9E8468DB-FD33-4A10-8BB9-5909EF83B99E::net5.0::TestETLLibrary.PipelineTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d1bd191a_002Da75d_002D449c_002Da83a_002D0695822652aa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestAggregation" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9E8468DB-FD33-4A10-8BB9-5909EF83B99E::net5.0::TestETLLibrary.PipelineTests.TestAggregation&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9E8468DB-FD33-4A10-8BB9-5909EF83B99E::net5.0::TestETLLibrary.PipelineTests.TestJoin&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e943b21c_002Dc934_002D48ef_002D92d0_002D8e50ad5b26ca/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::9E8468DB-FD33-4A10-8BB9-5909EF83B99E::net5.0::TestETLLibrary.PipelineTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
